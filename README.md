@@ -1,7 +1,7 @@
 # Skaj Ink Artist Portfolio
 
 
-![SkajInk](https://github.com/JamesS07/Skaj-Ink/assets/123837559/b388dca9-cd92-4a40-a796-6f34d36abcb9)
+![SkajInk](images/SkajInk.jpg)
 
 
 Art Portfolio for Twin Cities artist Van Skaj.    
