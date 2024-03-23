@@ -304,15 +304,15 @@
 					});
 
 			});
-
+// Turning this off in order to make Lightbox work easier
 		// Events.
-			$body.on('click', function(event) {
+			// $body.on('click', function(event) {
 
-				// Article visible? Hide.
-					if ($body.hasClass('is-article-visible'))
-						$main._hide(true);
+			// 	// Article visible? Hide.
+			// 		if ($body.hasClass('is-article-visible'))
+			// 			$main._hide(true);
 
-			});
+			// });
 
 			$window.on('keyup', function(event) {
 
