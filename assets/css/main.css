@@ -1679,6 +1679,12 @@ input, select, textarea {
 		}
 		#contact ul li {
 			margin-bottom: 20px;
-			font-size:larger;
+			text-decoration:none;
+		}
+		#contact span{
+			margin-right: 20px;
+		}
+		.icon{
+			font-size:x-large;
 		}
 	
